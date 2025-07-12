@@ -19,8 +19,9 @@ Este proyecto implementa un asistente de horticultura inteligente que:
 ## 🛠️ Estructura del Repositorio
 ```
 IA_Horticulture_chatbot/
-├── RAG_preprocessing.ipynb # Notebook de procesamiento de PDFs
-├── Horticulture_Assistant.ipynb # Notebook del chatbot interactivo
+├── Notebooks
+│ ├── RAG_preprocessing.ipynb # Notebook de procesamiento de PDFs
+│ ├── Horticulture_Assistant.ipynb # Notebook del chatbot interactivo
 ├── data/
 │ ├── Principles_of_Horticulture.pdf # Ejemplo de documento técnico
 │ ├── horticultura_chunks.npy
