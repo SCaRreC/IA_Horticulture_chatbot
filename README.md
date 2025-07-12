@@ -72,7 +72,7 @@ Iniciar un chatbot que combina:
 
 ## 🌟 Características Clave
 
-- **Separación clara** entre preprocesamiento y aplicación.
+- **Separación clara** entre preprocesamiento y aplicación. Preprocesamiento (pesado) en un notebook aparte. Chatbot (liviano) solo carga resultados preprocesados.
 - **Optimización para CPU/GPU**: Usa FAISS para búsqueda eficiente.
 - **Prompt engineering**: Combina contexto documental con instrucciones al LLM.
 - **Extensible**: Fácil adaptación a otros dominios (medicina, derecho, etc.).
