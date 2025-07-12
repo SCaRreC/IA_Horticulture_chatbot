@@ -18,16 +18,16 @@ Este proyecto implementa un asistente de horticultura inteligente que:
 
 ## 🛠️ Estructura del Repositorio
 ```
-horticultura-expert/
+IA_Horticulture_chatbot/
 ├── RAG_preprocessing.ipynb # Notebook de procesamiento de PDFs
 ├── Horticulture_Assistant.ipynb # Notebook del chatbot interactivo
 ├── data/
 │ ├── Principles_of_Horticulture.pdf # Ejemplo de documento técnico
-│ ├── horticultura_chunks.npy # Fragmentos de texto procesados
-│ ├── horticultura_embeddings.npy # Embeddings de los fragmentos
-│ └── horticultura_index.faiss # Índice de búsqueda semántica
-├── requirements.txt # Dependencias
-└── README.md # Este archivo
+│ ├── horticultura_chunks.npy
+│ ├── horticultura_embeddings.npy 
+│ └── horticultura_index.faiss 
+├── requirements.txt 
+└── README.md 
 ```
 
 ---
@@ -36,8 +36,8 @@ horticultura-expert/
 
 1. **Clona el repositorio**:
    ```bash
-   git clone https://github.com/tu-usuario/horticultura-expert.git
-   cd horticultura-expert
+   git clone [https://github.com/tu-usuario/horticultura-expert.git](https://github.com/SCaRreC/IA_Horticulture_chatbot.git)
+   cd A_Horticulture_chatbot
 
 2. Instala dependencias:
 bash
