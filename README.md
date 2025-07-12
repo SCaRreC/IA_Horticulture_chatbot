@@ -28,7 +28,7 @@ horticultura-expert/
 │ └── horticultura_index.faiss # Índice de búsqueda semántica
 ├── requirements.txt # Dependencias
 └── README.md # Este archivo
-`
+```
 
 ---
 
